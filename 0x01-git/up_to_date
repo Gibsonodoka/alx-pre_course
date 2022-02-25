@@ -1,4 +1,1 @@
-cd 0x01-git
-ls
-git status
-git add up_to_date
+echo 'git pull' >up_to_date
